@@ -4,18 +4,18 @@
 
 ## About Me
 
-I am passionate about leveraging technology to make a **meaningful impact**. Motivated by innovation and driven by a curiosity to explore new horizons, I thrive in dynamic environments where I can apply my skills and contribute to exciting projects.
+I am passionate about leveraging technology to make a **meaningful impact**. I'm motivated by innovation and have a keen enthusiasm for continuous learning and tackling complex challenges while applying my skills and contributing to exciting projects.
 
 ## Skills
 
-- **Programming Languages:** Java, Python, C, C++, Scheme, PostgreSQL, MySQL, HTML, CSS, R(Plotly library), Assembly, OCaml
+- **Programming Languages:** Java, Python, C, C++, Scheme, PostgreSQL, MySQL, HTML, CSS, R, Assembly, OCaml
 - **Libraries:** Pandas, NumPy, Matplotlib
 - **Technologies:**  Freshworks CRM platform, MS Excel, Unity
 - **Operating Systems and Virtual Machines:** Ubuntu VM, Linux, macOS
 - **Areas of Interest:** Software Enginnering, Data Science, Data Analyst
 
 ## Academic Journey
-- Strong foundation in programming languages, Data Structures, and Algorithms.
+- Coursework: Data Structures, Algorithms, Discrete Structures, Computer Architecture & Organization, Linear Algebra, Probability and Statistics, Differential Equations
 - Currently expanding my knowledge in Systems Programming, Principles of Programming Language using OCaml, and Database Management Systems.
 
 ## Career Aspiration
