@@ -1,6 +1,26 @@
-### Hi there 👋
+### Hello, I'm Annanya Jain!
 
-Hello, I'm Annanya Jain!
+*👩‍💻 Sophomore, pursuing a Bachelor of Science in Computer Science at Stevens Institute of Technology.*
+
+## About Me
+
+I am passionate about leveraging technology to make a **meaningful impact**. Motivated by innovation and driven by a curiosity to explore new horizons, I thrive in dynamic environments where I can apply my skills and contribute to exciting projects.
+
+## Skills
+
+- **Programming Languages:** Java, Python, C, C++, Scheme, PostgreSQL, MySQL, HTML, CSS, R(Plotly library), Assembly, OCaml
+- **Libraries:** Pandas, NumPy, Matplotlib
+- **Technologies:**  Freshworks CRM platform, MS Excel, Unity
+- **Operating Systems and Virtual Machines:** Ubuntu VM, Linux, macOS
+- **Areas of Interest:** Software Enginnering, Data Science, Data Analyst
+
+## Academic Journey
+- Strong foundation in programming languages, Data Structures, and Algorithms.
+- Currently expanding my knowledge in Systems Programming, Principles of Programming Language using OCaml, and Database Management Systems.
+
+## Career Aspiration
+
+I am deeply motivated to advance my career in Solution Architecture and Data Science. Inspired by the transformative impact of AI and ML technologies in businesses, I am eager to participate in technical projects, collaborate with industry experts, and tackle new challenges.
 
 <!--
 **JainAnnanya/JainAnnanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +36,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
