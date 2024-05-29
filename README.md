@@ -1,6 +1,6 @@
 ### Hello, I'm Annanya Jain!
 
-*👩‍💻 Sophomore, pursuing a Bachelor of Science in Computer Science at Stevens Institute of Technology.*
+*👩‍💻 Rising Junior, pursuing a Bachelor of Science in Computer Science at Stevens Institute of Technology.*
 
 ## About Me
 
