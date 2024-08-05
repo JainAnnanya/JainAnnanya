@@ -15,8 +15,8 @@ I am passionate about leveraging technology to make a **meaningful impact**. I'm
 - **Areas of Interest:** Software Enginnering, Data Science, Data Analyst
 
 ## Academic Journey
-- Coursework: Data Structures, Algorithms, Discrete Structures, Computer Architecture & Organization, Linear Algebra, Probability and Statistics, Differential Equations
-- Currently expanding my knowledge in Systems Programming, Principles of Programming Language using OCaml, and Database Management Systems.
+- Coursework: Data Structures, Algorithms, Discrete Structures, Computer Architecture & Organization, Linear Algebra, Probability and Statistics, Differential Equations, Systems Programming, Principles of Programming Language using OCaml, and Database Management Systems.
+
 
 ## Career Aspiration
 
